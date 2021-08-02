@@ -1,4 +1,6 @@
 # The slick programming-language
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick?ref=badge_shield)
+
 
 slick is a multi-paradigm programming language for the unconventional C developer, featuring automatic memory mapping, clean bytecode generation, full boostrapping compiler amd more.
 
@@ -17,3 +19,7 @@ Todo
 - **Website**: coming soon
 - **Sources**: https://github.com/timo-cmd2/slick
 - **Patreon**: patreon.com/slicklang
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick?ref=badge_large)
